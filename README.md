@@ -4,7 +4,7 @@
 
 ### The key is to correctly set the binarization threshold (line 45 in extraccting_area.m) and imclose parameter (line 52 in extraccting_area.m).
 
-### The code is developed in matlab 2023b with image processing toolbox/computer vision tool box and signal processing toolbox.
+### The code is developed in matlab 2023b with image processing toolbox/computer vision toolbox and signal processing toolbox.
 
 ![](https://github.com/rkdeng/EHTcontraction_analysis/blob/main/png1.png)
 ![](https://github.com/rkdeng/EHTcontraction_analysis/blob/main/png2.png)
